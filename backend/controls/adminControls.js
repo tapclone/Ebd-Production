@@ -6,8 +6,7 @@ const { ObjectId } = require("mongodb");
 const { PROJECT_COLLECTION } = require("../config/collection");
 const { BLOG_COLLECTION } = require("../config/collection");
 const { uploadS3 } = require("../middelware/S3");
-
-const generateToken = require("jsonwebtoken");
+const jwt = require("jsonwebtoken");
 const generateToken = (id) => {
   return jwt.sign({ id }, "asif", {
     expiresIn: "30d",
