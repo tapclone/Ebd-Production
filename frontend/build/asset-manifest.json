@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8a60fa50.css",
-    "main.js": "/static/js/main.75e22989.js",
+    "main.css": "/static/css/main.e3eb5d6f.css",
+    "main.js": "/static/js/main.51a18daf.js",
     "static/media/Compass.mp4": "/static/media/Compass.dff43761285e6163de77.mp4",
     "static/media/EBD intro.mp4": "/static/media/EBD intro.35ee69ad645f1ec97b92.mp4",
     "static/media/EBD mobile gif.mp4": "/static/media/EBD mobile gif.ce95aacea7cba3f056f0.mp4",
@@ -23,11 +23,11 @@
     "static/media/hamburger.svg": "/static/media/hamburger.653df31f762831b2904aaa9e787a85ee.svg",
     "static/media/arrow2.svg": "/static/media/arrow2.b0407a8c88a87f67f5e1d6a6a54193ec.svg",
     "static/media/arrow1.svg": "/static/media/arrow1.dba5d8033f1161af817f08428ee0b6b4.svg",
-    "main.8a60fa50.css.map": "/static/css/main.8a60fa50.css.map",
-    "main.75e22989.js.map": "/static/js/main.75e22989.js.map"
+    "main.e3eb5d6f.css.map": "/static/css/main.e3eb5d6f.css.map",
+    "main.51a18daf.js.map": "/static/js/main.51a18daf.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a60fa50.css",
-    "static/js/main.75e22989.js"
+    "static/css/main.e3eb5d6f.css",
+    "static/js/main.51a18daf.js"
   ]
 }
